@@ -1,0 +1,27 @@
+body {
+    background-color: black;
+    color: chocolate;
+    text-align: center;
+}
+
+.ingrediants {
+    background-color: rgb(251, 54, 54);
+    color: white;
+    text-decoration: none;
+    padding-bottom: 50px;
+}
+
+.directions {
+    background-color: rgb(212, 54, 212);
+    color: white;
+}
+
+.description {
+    background-color: yellow;
+    color: black;
+}
+
+.heading {
+    background-color: darkgreen;
+    color: white;
+}
